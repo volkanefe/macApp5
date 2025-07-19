@@ -25,4 +25,4 @@ Projeyi kendi sisteminizde çalıştırmak için:
 Bu repoyu klonlayın:
 
    ```bash
-   git clone https://github.com/kullaniciadi/macApp5.git
+   git clone https://github.com/volkanefe/macApp5.git
